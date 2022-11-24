@@ -5,6 +5,16 @@ import DisplayText from "./components/displayText";
 function App() {
   return (
     <>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          color: "red",
+        }}
+      >
+        This is a test site. WIP.
+      </div>
       <div className="App">
         <h1 className="text-3xl font-bold underline">
           General Purpose Display
