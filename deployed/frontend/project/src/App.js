@@ -29,7 +29,6 @@ function App() {
       <div className="clock-style">
         <Clock />
       </div> */}
-      <div></div>
 
       <div style={{ paddingLeft: "80px" }}>
         <h4>Display Text</h4>
