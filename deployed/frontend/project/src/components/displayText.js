@@ -41,6 +41,9 @@ function DisplayText() {
           display_text,
         }),
       });
+      alert("response submitted!");
+    } else {
+      alert("wrong passcode!");
     }
   };
 
